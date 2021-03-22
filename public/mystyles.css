@@ -1,0 +1,13 @@
+.border-timeline{
+ left:4%;
+}
+@media screen and (min-width: 450px) and (max-width: 767px) {
+ .border-timeline{
+  left:3%;
+ }
+}
+@media screen and (min-width: 768px) {
+ .border-timeline{
+  left:50%;
+ }
+}
